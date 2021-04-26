@@ -17,3 +17,25 @@ Make sure you have Node.js and mySQL or phpMyAdmin.
 ```
 
 ## File Structure
+```
+AntarcticaProject/
+├── README.md             # overview of the project
+├── server.js             # Entry Point 
+├── package.json          # Metadata relevant to the project 
+├── Package-lock.json     # To keep track of the exact version of every package that is installed 
+├── .gitignore             
+├── config/               # Config Folder
+│   ├── config.js         
+│   └── config_dev.js     
+|   └── keys.js           
+|   └── passport.js       # For Authentication
+|   └── db.js             # Database Connection
+├── Node_modules/         # Package Folder
+├── Route/                # Route Folder
+│   └── API        
+│       └── user.js       # User Router
+├── validation/           # Input Validation Folder
+    ├── login.js         
+    └── register.js     
+
+```
