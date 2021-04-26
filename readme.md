@@ -8,7 +8,7 @@ Make sure you have Node.js and mySQL or phpMyAdmin.
 ## Quickstart
 
 ```
-  git clone git@github.com:tejaunshb/antarctica.git   mern init your_new_app
+  git clone git@github.com:tejaunshb/antarctica.git 
   cd project_path
   npm install
   npm run server
