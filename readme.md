@@ -1,6 +1,6 @@
-#Antarctica Project
+# Antarctica Project
 
-##Antarctica Project is Node.js app using Express & mySQL.
+## Antarctica Project is Node.js app using Express & mySQL.
 
 Running Locally
 Make sure you have Node.js and mySQL or phpMyAdmin.
